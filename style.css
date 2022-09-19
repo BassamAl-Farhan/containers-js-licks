@@ -1,0 +1,185 @@
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+.up-container {
+    background-color: black;
+    width: 75%;
+    margin-left: 160px;
+}
+
+
+.up-container h1 {
+    color: aliceblue;
+    margin-left: 30px;
+}
+
+.second-h1 {
+    padding-left: 550px;
+}
+
+.top-left-right-container {
+    display: flex;
+}
+
+.top-left-container {
+    width: 185px;
+    height: 240px;
+    border: solid black;
+    margin-left: 160px;
+    margin-bottom: 0px;
+}
+
+.top-right-container {
+    width: 666.5px;
+    height: 590px;
+    margin-left: 70px;
+}
+
+.top-left-container, .top-right-container {
+    display: inline-block;
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 49px;
+    margin-bottom: 20px;
+}
+
+.add-an-avatar a {
+    margin-left: 48px;
+}
+
+
+.james-doe {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+.top-right-top-container {
+    width: 666.5px;
+    height: 145px;
+    border: solid black;
+}
+
+
+.top-right-midel-container {
+    width: 666.5px;
+    height: 145px;
+    border: solid black;
+    margin-top: 15px;
+}
+
+
+.top-right-botom-container {
+    width: 666.5px;
+    height: 145px;
+    border: solid black;
+    margin-top: 15px;
+}
+
+
+
+.top-right-top-container .nile-m, .nile-m-like, .nile-m-like-button {
+    display: inline-block;
+}
+
+.nile-m {
+    padding-left: 10px;
+    padding-right: 300px;
+}
+
+.nile-m-like {
+    margin-right: 20px;
+    padding-right: 35px;
+}
+
+.nile-m-like-button {
+    height: 40px;
+    width: 65px;
+    margin-left: 25px;
+    background-color: goldenrod;
+    box-shadow: 2px 2px;
+}
+
+
+
+
+.top-right-top-container .first-p, .link {
+display: inline-block;
+}
+
+.first-p {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+
+
+
+.top-right-midel-container .nichole-k, .nichole-k-like, .nichole-k-like-button {
+    display: inline-block;
+}
+
+.nichole-k {
+    padding-left: 10px;
+    padding-right: 250px;
+}
+
+.nichole-k-like {
+    margin-right: 20px;
+    padding-right: 35px;
+}
+
+.nichole-k-like-button {
+    height: 40px;
+    width: 65px;
+    margin-left: 25px;
+    background-color: goldenrod;
+    box-shadow: 2px 2px;
+}
+
+
+.top-right-botom-container .jim-r, .jim-r-like, .jim-r-like-button {
+    display: inline-block;
+}
+
+.jim-r {
+    padding-left: 10px;
+    padding-right: 318px;
+}
+
+.jim-r-like {
+    margin-right: 20px;
+    padding-right: 35px;
+}
+
+.jim-r-like-button {
+    height: 40px;
+    width: 65px;
+    background-color: goldenrod;
+    box-shadow: 2px 2px;
+
+}
+
+
+
+.buttondiv{
+    display: flex;
+    align-items:center ;
+    justify-content: space-around;
+}
